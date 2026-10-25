@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jostin-castillo/"><img src="https://img.shields.io/badge/LinkedIn-Jostin_Castillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/jostincass"><img src="https://img.shields.io/badge/Instagram-jostincass-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://encorespace.app"><img src="https://img.shields.io/badge/Encore-en_vivo-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Encore" /></a>
   <a href="https://github.com/jostincp?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-explorar-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" /></a>
@@ -54,6 +55,6 @@
 
 ## 🤝 Conectemos
 
-Abierto a proyectos interesantes y colaboraciones. Me encuentras en Instagram y en mi canal de YouTube, Core Tech.
+Abierto a proyectos interesantes y colaboraciones. Escríbeme por [LinkedIn](https://www.linkedin.com/in/jostin-castillo/), o encúentrame en Instagram y en mi canal de YouTube, Core Tech.
 
 <img src="assets/footer.svg" width="100%" alt="" />
