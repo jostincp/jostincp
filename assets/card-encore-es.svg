@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Encore - rockola digital, menús 3D y puntos de fidelización para bares y restaurantes">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c1228"/><stop offset="1" stop-color="#0a0e1f"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="rg"><stop offset="0" stop-color="#f472b6" stop-opacity=".35"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity=".06"/></pattern>
+<clipPath id="cl"><rect width="1200" height="330" rx="18"/></clipPath>
+</defs><style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.mono,.mono text{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',Menlo,monospace}
+.run{animation:run 6s linear infinite}
+@keyframes run{to{stroke-dashoffset:-3052}}
+.f1{animation:f 4s ease-in-out infinite alternate}
+.f2{animation:f 3s ease-in-out infinite alternate-reverse}
+.f3{animation:f 5s ease-in-out infinite alternate}
+@keyframes f{to{transform:translateY(-10px)}}
+.sh{animation:sh 4s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}
+@keyframes sh{to{transform:scale(.8);opacity:.5}}
+.orb{animation:orb 8s linear infinite;transform-box:view-box;transform-origin:OX OY}
+@keyframes orb{to{transform:rotate(360deg)}}
+.pulse{animation:p 1.6s ease-in-out infinite}
+@keyframes p{50%{opacity:.3}}
+.note{animation:note 4s ease-in infinite;opacity:0}
+.n2{animation-delay:1.3s}.n3{animation-delay:2.6s}
+@keyframes note{0%{opacity:0;transform:translateY(0)}20%{opacity:1}100%{opacity:0;transform:translateY(-60px)}}
+.glow{animation:gl 5s ease-in-out infinite alternate}
+@keyframes gl{to{opacity:.45}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.note{opacity:1}}
+</style>
+<g clip-path="url(#cl)"><rect width="1200" height="330" fill="url(#bg)"/><rect width="1200" height="330" fill="url(#dots)"/>
+<ellipse class="glow" cx="1050" cy="165.0" rx="210" ry="160" fill="url(#rg)"/>
+<text x="44" y="56" font-size="13" letter-spacing="2.5" fill="#f472b6" class="mono">★ PROYECTO PRINCIPAL</text>
+<rect x="270" y="38" width="150" height="26" rx="13" fill="#22c55e" fill-opacity=".12" stroke="#22c55e" stroke-opacity=".5"/>
+<circle class="pulse" cx="288" cy="51" r="5" fill="#22c55e"/><text x="302" y="56" font-size="12.5" fill="#86efac" class="mono">EN PRODUCCIÓN</text>
+<text x="44" y="118" font-size="52" font-weight="800" fill="#f8fafc">Encore</text>
+<text x="44" y="160" font-size="19" fill="#cbd5e1">Rockola digital, menús 3D y puntos de fidelización para bares y restaurantes.</text>
+<text x="44" y="190" font-size="17" fill="#94a3b8">Cola de canciones en tiempo real con WebSockets y microservicios en Node.js.</text>
+<rect x="44" y="224" width="98" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="93" y="241.5" text-anchor="middle" font-size="12.5" fill="#f695c8" class="mono">Next.js 15</text><rect x="150.0" y="224" width="83" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="191" y="241.5" text-anchor="middle" font-size="12.5" fill="#f695c8" class="mono">React 19</text><rect x="240.8" y="224" width="75" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="278" y="241.5" text-anchor="middle" font-size="12.5" fill="#f695c8" class="mono">Node.js</text><rect x="324.0" y="224" width="98" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="373" y="241.5" text-anchor="middle" font-size="12.5" fill="#f695c8" class="mono">PostgreSQL</text><rect x="430.0" y="224" width="60" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="460" y="241.5" text-anchor="middle" font-size="12.5" fill="#f695c8" class="mono">Redis</text><rect x="498.0" y="224" width="98" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="547" y="241.5" text-anchor="middle" font-size="12.5" fill="#f695c8" class="mono">WebSockets</text><rect x="604.0" y="224" width="68" height="26" rx="13" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/><text x="638" y="241.5" text-anchor="middle" font-size="12.5" fill="#f695c8" class="mono">Docker</text>
+<text x="44" y="296" font-size="13" fill="#64748b" class="mono">encorespace.app →</text>
+<ellipse class="sh" cx="960" cy="276" rx="150" ry="26" fill="#000" fill-opacity=".45"/>
+<g class="f1"><polygon points="960,68 1039.672,114.0 960,160 880.328,114.0" fill="#a97ef3"/><polygon points="880.328,114.0 960,160 960,252 880.328,206.0" fill="#7c3aed"/><polygon points="960,160 1039.672,114.0 1039.672,206.0 960,252" fill="#441f82"/><polyline points="880.328,114.0 960,160 1039.672,114.0" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.2"/><line x1="960" y1="160" x2="960" y2="252" stroke="#ffffff" stroke-opacity="0.2"/><text transform="matrix(0.866 0.5 0 1 920.164 171.04)" text-anchor="middle" font-size="51" font-weight="800" fill="#ffffff" fill-opacity="0.92" class="mono">♪</text></g>
+<g class="f2"><polygon points="840,86 869.444,103.0 840,120 810.556,103.0" fill="#f7a3cf"/><polygon points="810.556,103.0 840,120 840,154 810.556,137.0" fill="#f472b6"/><polygon points="840,120 869.444,103.0 869.444,137.0 840,154" fill="#863e64"/><polyline points="810.556,103.0 840,120 869.444,103.0" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.2"/><line x1="840" y1="120" x2="840" y2="154" stroke="#ffffff" stroke-opacity="0.2"/></g>
+<g class="f3"><polygon points="1086,74 1108.516,87.0 1086,100 1063.484,87.0" fill="#96f1e3"/><polygon points="1063.484,87.0 1086,100 1086,126 1063.484,113.0" fill="#5eead4"/><polygon points="1086,100 1108.516,87.0 1108.516,113.0 1086,126" fill="#338074"/><polyline points="1063.484,87.0 1086,100 1108.516,87.0" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.2"/><line x1="1086" y1="100" x2="1086" y2="126" stroke="#ffffff" stroke-opacity="0.2"/></g>
+<g class="f2"><polygon points="1100,210 1117.32,220.0 1100,230 1082.68,220.0" fill="#fcd570"/><polygon points="1082.68,220.0 1100,230 1100,250 1082.68,240.0" fill="#fbbf24"/><polygon points="1100,230 1117.32,220.0 1117.32,240.0 1100,250" fill="#8a6913"/><polyline points="1082.68,220.0 1100,230 1117.32,220.0" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.2"/><line x1="1100" y1="230" x2="1100" y2="250" stroke="#ffffff" stroke-opacity="0.2"/></g>
+<g class="mono" font-size="28" fill="#f472b6"><text class="note" x="900" y="70">♪</text><text class="note n2" x="1010" y="60" fill="#5eead4">♫</text><text class="note n3" x="960" y="50" fill="#fbbf24">♪</text></g></g>
+<rect x="1" y="1" width="1198" height="328" rx="17" fill="none" stroke="#ffffff" stroke-opacity=".1" stroke-width="1.5"/>
+<rect class="run" x="1" y="1" width="1198" height="328" rx="17" fill="none" stroke="url(#ac)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="220 2832"/>
+</svg>
