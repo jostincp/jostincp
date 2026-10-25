@@ -50,10 +50,10 @@
 
 - Building and improving **Encore**.
 - Preparing the **GitHub Foundations** certification.
-- Sharing the process of building projects on **Core Tech** and Instagram.
+- Sharing the process of building projects on my YouTube channel, **Core Tech**, and on Instagram.
 
 ## 🤝 Let's connect
 
-Open to interesting projects and collaborations. You can find me on Instagram and on the Core Tech channel.
+Open to interesting projects and collaborations. You can find me on Instagram and on my YouTube channel, Core Tech.
 
 <img src="assets/footer.svg" width="100%" alt="" />

@@ -50,10 +50,10 @@
 
 - Construyendo y mejorando **Encore**.
 - Preparándome para la certificación **GitHub Foundations**.
-- Compartiendo el proceso de construir proyectos en **Core Tech** e Instagram.
+- Compartiendo el proceso de construir proyectos en mi canal de YouTube, **Core Tech**, y en Instagram.
 
 ## 🤝 Conectemos
 
-Abierto a proyectos interesantes y colaboraciones. Me encuentras en Instagram y en el canal Core Tech.
+Abierto a proyectos interesantes y colaboraciones. Me encuentras en Instagram y en mi canal de YouTube, Core Tech.
 
 <img src="assets/footer.svg" width="100%" alt="" />
