@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Jostin Castillo - Ingeniero de software, tecnología para contact centers, automatización e IA" />
+  <img src="assets/header-es.svg" width="100%" alt="Jostin Castillo - Ingeniero de software, tecnología para contact centers, automatización e IA" />
 </p>
 
 <p align="center">
@@ -28,25 +28,17 @@
 ## 🚀 Proyectos destacados
 
 <p align="center">
-  <a href="https://encorespace.app"><img src="assets/card-encore.svg" width="100%" alt="Encore - rockola digital, menús 3D y puntos de fidelización para bares y restaurantes" /></a>
+  <a href="https://encorespace.app"><img src="assets/card-encore-es.svg" width="100%" alt="Encore - rockola digital, menús 3D y puntos de fidelización para bares y restaurantes" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jostincp/smartsavings-web"><img src="assets/card-smartsavings.svg" width="49%" alt="SmartSavings - bot de WhatsApp para finanzas personales" /></a>
-  <a href="https://github.com/jostincp/OfficeAI"><img src="assets/card-officeai.svg" width="49%" alt="OfficeAI - oficina virtual con agentes de IA" /></a>
+  <a href="https://github.com/jostincp/smartsavings-web"><img src="assets/card-smartsavings-es.svg" width="49%" alt="SmartSavings - bot de WhatsApp para finanzas personales" /></a>
+  <a href="https://github.com/jostincp/OfficeAI"><img src="assets/card-officeai-es.svg" width="49%" alt="OfficeAI - oficina virtual con agentes de IA" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/jostincp/creacion_codigos_actividad"><img src="assets/card-tipificacion.svg" width="49%" alt="Tipificación Wolkvox - creación masiva de códigos de actividad" /></a>
-  <a href="https://github.com/jostincp/portafolio-jostin"><img src="assets/card-portfolio.svg" width="49%" alt="Portafolio personal" /></a>
+  <a href="https://github.com/jostincp/creacion_codigos_actividad"><img src="assets/card-tipificacion-es.svg" width="49%" alt="Tipificación Wolkvox - creación masiva de códigos de actividad" /></a>
+  <a href="https://github.com/jostincp/portafolio-jostin"><img src="assets/card-portfolio-es.svg" width="49%" alt="Portafolio personal" /></a>
 </p>
-
-| Proyecto | Qué es |
-| :-- | :-- |
-| **Encore** | Rockola digital, menús 3D y puntos de fidelización para bares y restaurantes. Cola de canciones en tiempo real con WebSockets y microservicios en Node.js. |
-| **SmartSavings** | Bot de WhatsApp que registra gastos y ahorros, automatizado con n8n. |
-| **OfficeAI** | Oficina virtual en pixel art donde agentes de IA especializados trabajan en equipo. |
-| **Tipificación Wolkvox** | Crea códigos de actividad de forma masiva con la API de Wolkvox a partir de un Excel. |
-| **Portafolio** | Mi sitio personal con proyectos, experiencia y contacto. |
 
 ## 🛠️ Stack tecnológico
 
