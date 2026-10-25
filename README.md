@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/jostincp"><img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-selected-5eead4?style=flat-square" alt="English" /></a>
+  <a href="https://github.com/jostincp/jostincp/blob/main/README.es.md"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Espa%C3%B1ol-leer-a78bfa?style=flat-square" alt="Leer en español" /></a>
+</p>
+
+<p align="center">
   <a href="https://instagram.com/jostincass"><img src="https://img.shields.io/badge/Instagram-jostincass-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://encorespace.app"><img src="https://img.shields.io/badge/Encore-live-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Encore" /></a>
   <a href="https://github.com/jostincp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
