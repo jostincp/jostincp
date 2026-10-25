@@ -25,7 +25,7 @@ Bogotá, Colombia 🇨🇴 · Español / English
 | [dashboard-hits-wolkvox](https://github.com/jostincp/dashboard-hits-wolkvox) | Dashboard that charts operation productivity (hits, RPC, WPC) | TypeScript |
 | [creacion_codigos_actividad](https://github.com/jostincp/creacion_codigos_actividad) | Script for bulk creation of Wolkvox typification codes | Python |
 | [asociar_chats_casos](https://github.com/jostincp/asociar_chats_casos) | Script that links chats to cases in the Wolkvox CRM | Python |
-| [OfficeAI](https://github.com/jostincp/OfficeAI) | AI-powered office assistant | TypeScript |
+| [OfficeAI](https://github.com/jostincp/OfficeAI) | Multi-agent virtual office: specialized AI agents coordinated from a pixel-art office UI | TypeScript |
 | [portafolio-jostin](https://github.com/jostincp/portafolio-jostin) | My portfolio site | TypeScript |
 
 ## Tech I use
