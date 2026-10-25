@@ -4,40 +4,48 @@
 
 <p align="center">
   <a href="https://instagram.com/jostincass"><img src="https://img.shields.io/badge/Instagram-jostincass-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://encorespace.app"><img src="https://img.shields.io/badge/Encore-live-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Encore" /></a>
   <a href="https://github.com/jostincp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
 ## 👨‍💻 About me
 
-- 🎧 **Project Solution Specialist at Wolkvox**: I implement contact-center solutions for clients and build internal tooling around them (CRM, chats, dashboards).
-- 🤖 **Automation & AI agents**: workflows with n8n, WhatsApp bots, and LLM-powered assistants.
+<p align="center">
+  <img src="assets/workspace.svg" width="100%" alt="Original pixel-art scene: a developer coding at night in Bogotá, with a window to the mountains, a weight rack and a sleeping cat" />
+</p>
+
+- 🎧 **Project Solution Specialist at Wolkvox**: I implement contact-center solutions for clients and build internal tooling around them.
+- 🤖 **Automation & AI agents**: n8n workflows, WhatsApp bots and multi-agent systems.
 - 🧑‍💻 **Freelance full-stack development**: landing pages, dashboards and integrations for small businesses.
+- 🏋️ **Code and training**: I build software and I lift. Discipline in one carries over to the other.
 - 🎓 Studying Software Engineering at Politécnico Grancolombiano.
-- 🎬 I share what I build on **Core Tech**, my bilingual tech channel.
 
 ## 🚀 Featured projects
 
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**smartsavings-web**](https://github.com/jostincp/smartsavings-web) | Web for SmartSavings, a WhatsApp personal-finance tracker | Astro |
-| [**dashboard-hits-wolkvox**](https://github.com/jostincp/dashboard-hits-wolkvox) | Dashboard that charts operation productivity (hits, RPC, WPC) | TypeScript |
-| [**creacion_codigos_actividad**](https://github.com/jostincp/creacion_codigos_actividad) | Script for bulk creation of Wolkvox typification codes | Python |
-| [**asociar_chats_casos**](https://github.com/jostincp/asociar_chats_casos) | Script that links chats to cases in the Wolkvox CRM | Python |
-| [**OfficeAI**](https://github.com/jostincp/OfficeAI) | Multi-agent virtual office: specialized AI agents coordinated from a pixel-art office UI | TypeScript |
-| [**portafolio-jostin**](https://github.com/jostincp/portafolio-jostin) | My portfolio site | TypeScript |
-
-## 🛠️ Tech I use
-
-<p>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<p align="center">
+  <a href="https://encorespace.app"><img src="assets/card-encore.svg" width="100%" alt="Encore - digital jukebox, 3D menus and loyalty points for bars and restaurants" /></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/jostincp/smartsavings-web"><img src="assets/card-smartsavings.svg" width="49%" alt="SmartSavings" /></a>
+  <a href="https://github.com/jostincp/OfficeAI"><img src="assets/card-officeai.svg" width="49%" alt="OfficeAI" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jostincp/creacion_codigos_actividad"><img src="assets/card-tipificacion.svg" width="49%" alt="Wolkvox Typification" /></a>
+  <a href="https://github.com/jostincp/portafolio-jostin"><img src="assets/card-portfolio.svg" width="49%" alt="Portfolio" /></a>
+</p>
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, React, Next.js, Node.js, Astro, Tailwind CSS, PostgreSQL, Supabase, Redis, Docker, n8n, WebSockets, Git" />
+</p>
+
+## 🔭 Right now
+
+- Building and improving **Encore**.
+- Preparing the **GitHub Foundations** certification.
+- Sharing the process of building projects on **Core Tech** and Instagram.
 
 ## 🤝 Let's connect
 
